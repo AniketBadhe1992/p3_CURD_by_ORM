@@ -1,4 +1,7 @@
 from django.shortcuts import render
+
+def gittest(request):
+    pass
 '''
 1.cmd                                                     :create project name & app name
 2.Installed app(settings.py)                  :'p3_app',
